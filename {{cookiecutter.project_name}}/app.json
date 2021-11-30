@@ -1,0 +1,7 @@
+{
+  "name": "{{cookiecutter.project_name}}",
+  "description": "{{cookiecutter.short_description}}",
+  "repository": "{{cookiecutter.repository_link}}",
+  "keywords": ["node", "Discord", "heroku"],
+  "image": "heroku/nodejs"
+} 

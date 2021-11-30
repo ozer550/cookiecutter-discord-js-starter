@@ -1,0 +1,9 @@
+{
+  "project_name": "discordBot",
+  "short_description": "Discord bot",
+  "author": "John Doe",
+  "entry_point": "index",
+  "slash_command_file": "deploy-commands",
+  "license": "MIT",
+  "repository_link": "https://github.com/@username/@projectname"
+}
